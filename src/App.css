@@ -1,0 +1,20 @@
+.start-button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+.index-div{
+font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style : normal;
+}
